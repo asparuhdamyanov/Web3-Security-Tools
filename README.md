@@ -40,5 +40,7 @@ Contract callers can also be set in the configuration. Default accounts are
 
 ## Slither
 
+Using Slither static analysis tool.
+
 Update: View real example of using Slither at:
 https://github.com/asparuhdamyanov/Space-Cola-Vending-Machine
